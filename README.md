@@ -41,7 +41,6 @@ my-react-translation/
 │   ├── main.tsx
 │   └── i18n.ts             # i18next config
 ├── .env
-├── tailwind.config.ts
 ├── index.html
 └── package.json
 ```
@@ -52,7 +51,7 @@ my-react-translation/
 
 ### ⚙️ Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16+ recommended)
+- [Node.js](https://nodejs.org/) (v20 recommended)
 - npm or yarn
 
 ### 📦 Installation
